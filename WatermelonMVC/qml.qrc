@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/wm.png</file>
+        <file>img/wm_empty.png</file>
+        <file>img/wm_full.png</file>
+    </qresource>
+</RCC>
